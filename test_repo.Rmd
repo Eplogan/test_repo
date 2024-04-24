@@ -2,7 +2,7 @@
 title: "test_repo"
 author: "Epeli Logan"
 date: "2023-11-17"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
